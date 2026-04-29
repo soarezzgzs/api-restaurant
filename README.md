@@ -1,4 +1,5 @@
 🍽️ API Restaurant
+
 API desenvolvida durante o curso da Rocketseat, com foco em construção de aplicações back-end utilizando Node.js, Express, TypeScript, Knex e SQLite3.
 
 🚀 Tecnologias
